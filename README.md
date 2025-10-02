@@ -57,4 +57,3 @@ python facebook_hack.py
 - **Obtenir l'identifiant de profil Facebook cible** :
 
 * **Commande** : python facebook_hack.py -g https://www.facebook.com/exemple
-## info 
