@@ -1,6 +1,6 @@
 Piratage Facebook
 
-![image](file_00000000232c61fd91fb311b1688247b.png)
+![image](https://i.postimg.cc/QMcxCKJ4/file-00000000232c61fd91fb311b1688247b.png)
 ###### Puissante attaque par force brute sur Facebook.
 ***
 ### <p align="center">Commandes pour exécuter l'outil dans votre terminal Termux et Kali Linux
