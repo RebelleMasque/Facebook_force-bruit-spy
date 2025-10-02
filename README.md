@@ -9,8 +9,8 @@ Piratage Facebook
 ```bash
 Remarque : Cet outil est conçu à des fins éducatives uniquement.
 Veuillez ne pas endommager les appareils de qui que ce soit.
-C'est pour le plaisir, pas pour se venger.
-(Rejoignez-nous : https://chat.whatsapp.com/F9NbADb7L7v9SALfdBa9zq?mode=ems_copy_t)
+C'est pour juste testée, pas pour se venger.
+ by rebelle masque 
 ```
 ## Langage utilisé pour créer cet outil :
 - Python
@@ -30,10 +30,10 @@ apt update && apt upgrade -y
 apt install git -y
 ```
 ```bash
-git clone https://github.com/hackerxphantom/Facebook_hack.git
+git clone https://github.com/RebelleMasque/Facebook_force-bruit-spy.git
 ```
 ```bash
-cd Facebook_hack
+cd Facebook_force-bruit-spy
 ```
 ```bash
 bash setup
@@ -55,4 +55,4 @@ python facebook_hack.py
 
 - **Obtenir l'identifiant de profil Facebook cible** :
 
-* **Commande** : python facebook_hack.py -g https://www.facebook.com/zuck
+* **Commande** : python facebook_hack.py -g https://www.facebook.com/exemple
