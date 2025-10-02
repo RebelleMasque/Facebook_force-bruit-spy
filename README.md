@@ -12,8 +12,9 @@ Veuillez ne pas endommager les appareils de qui que ce soit.
 C'est pour juste testée, pas pour se venger.
  by rebelle masque 
 ```
-## Langage utilisé pour créer cet outil :
-- Python
+## info :
+- rejoindre mon groupe WhatsApp : https://chat.whatsapp.com/F9NbADb7L7v9SALfdBa9zq?mode=ems_copy_t
+- rebelle masque haker de la cyber sécurité.
 
 ## L'outil est compatible avec :
 - Windows
@@ -57,4 +58,3 @@ python facebook_hack.py
 
 * **Commande** : python facebook_hack.py -g https://www.facebook.com/exemple
 ## info 
-_ *  **rejoindre mon groupe WhatsApp** https://chat.whatsapp.com/F9NbADb7L7v9SALfdBa9zq?mode=ems_copy_t
